@@ -1,0 +1,3 @@
+= Fonts on Homebrew Cask
+
+There are fonts for Homebrew Cask with pinned versions or patches which are different with the official one.
